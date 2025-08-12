@@ -106,7 +106,7 @@ MONTEY orchestrates these 7 specialized agents:
 
 ## 📊 Command Center Dashboard
 
-Access the real-time dashboard at `http://localhost:5000` to monitor:
+Access the real-time dashboard at `http://yourhostname` to monitor:
 
 - **Agent Status**: Live view of all 7 agents and their current state
 - **Active Tasks**: Real-time task queue and processing status
